@@ -1,0 +1,28 @@
+body{
+	position: relative;
+	border: 1px solid black;
+	width:1200px;
+	height: 600px;
+	margin:100px auto;
+
+}
+
+.square{
+	top:200px;
+	position: absolute;
+	display: inline-block;
+	width:196px;
+	height: 196px;
+	max-width: 30%;
+	border: 2px solid black;	
+
+}
+
+#leftSquare {
+	left:50px;
+}
+
+#rightSquare {
+	right:50px;
+}
+
